@@ -9,14 +9,14 @@ Datasets currently used in this repo
 
 Repository Structure
 ---------------------
-The repo contains a main folder ([Experiments](Experiments/)) containing 3 experiments that were carried out using
+The repo contains a main folder ([Datasets](Datasets/)) containing 3 experiments that were carried out using
  [CLEP](https://github.com/hybrid-kg/clep) framework for each dataset.
 
 The data and results for each experiment is available in their respective folders, within each dataset's folder,
-1) [Benchmark](Experiments/ADNI/benchmarking) - Benchmarking experiment to check the performance of CLEP in contrast
+1) [Benchmark](Datasets/ADNI/benchmarking) - Benchmarking experiment to check the performance of CLEP in contrast
  with the raw data (including robustness analysis),
-2) [Kge_Model](Experiments/ADNI/kge_model) - Experiment to check the effect of KGE model on the classification, and
-3) [Threshold](Experiments/ADNI/threshold) - Experiment to check the effect of threshold applied during the incorporation of
+2) [Kge_Model](Datasets/ADNI/kge_model) - Experiment to check the effect of KGE model on the classification, and
+3) [Threshold](Datasets/ADNI/threshold) - Experiment to check the effect of threshold applied during the incorporation of
  patients in the KG.
 
 Each experiment folder contains a data and results folder.
