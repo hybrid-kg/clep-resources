@@ -1,0 +1,13 @@
+# Folders to ignore
+.DS_Store
+.ipynb_checkpoints/
+**/scripts
+**/logs
+
+# Files to ignore
+*.pkl
+adni_*.txt
+#./Experiments/ADNI/ml_model/data/adni_raw.txt
+#./Experiments/ADNI/kge_model/data/adni_exp.txt
+#./Experiments/ADNI/threshold/data/adni_raw.txt
+#./Experiments/ADNI/threshold/data/adni_exp.txt
