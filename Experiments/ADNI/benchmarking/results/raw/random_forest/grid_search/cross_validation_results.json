@@ -1,0 +1,148 @@
+{
+    "fit_time": [
+        201.2960307598114,
+        200.57403302192688,
+        202.1799018383026,
+        202.7032823562622,
+        204.99187445640564
+    ],
+    "score_time": [
+        0.11070442199707031,
+        0.11958599090576172,
+        0.11435604095458984,
+        0.10130500793457031,
+        0.1847095489501953
+    ],
+    "estimator": [
+        {
+            "bootstrap": true,
+            "class_weight": null,
+            "criterion": "gini",
+            "max_depth": null,
+            "max_features": "auto",
+            "max_leaf_nodes": null,
+            "min_impurity_decrease": 0.0,
+            "min_impurity_split": null,
+            "min_samples_leaf": 1,
+            "min_samples_split": 2,
+            "min_weight_fraction_leaf": 0.0,
+            "n_estimators": "warn",
+            "n_jobs": null,
+            "oob_score": false,
+            "random_state": null,
+            "verbose": 0,
+            "warm_start": false
+        },
+        {
+            "bootstrap": true,
+            "class_weight": null,
+            "criterion": "gini",
+            "max_depth": null,
+            "max_features": "auto",
+            "max_leaf_nodes": null,
+            "min_impurity_decrease": 0.0,
+            "min_impurity_split": null,
+            "min_samples_leaf": 1,
+            "min_samples_split": 2,
+            "min_weight_fraction_leaf": 0.0,
+            "n_estimators": "warn",
+            "n_jobs": null,
+            "oob_score": false,
+            "random_state": null,
+            "verbose": 0,
+            "warm_start": false
+        },
+        {
+            "bootstrap": true,
+            "class_weight": null,
+            "criterion": "gini",
+            "max_depth": null,
+            "max_features": "auto",
+            "max_leaf_nodes": null,
+            "min_impurity_decrease": 0.0,
+            "min_impurity_split": null,
+            "min_samples_leaf": 1,
+            "min_samples_split": 2,
+            "min_weight_fraction_leaf": 0.0,
+            "n_estimators": "warn",
+            "n_jobs": null,
+            "oob_score": false,
+            "random_state": null,
+            "verbose": 0,
+            "warm_start": false
+        },
+        {
+            "bootstrap": true,
+            "class_weight": null,
+            "criterion": "gini",
+            "max_depth": null,
+            "max_features": "auto",
+            "max_leaf_nodes": null,
+            "min_impurity_decrease": 0.0,
+            "min_impurity_split": null,
+            "min_samples_leaf": 1,
+            "min_samples_split": 2,
+            "min_weight_fraction_leaf": 0.0,
+            "n_estimators": "warn",
+            "n_jobs": null,
+            "oob_score": false,
+            "random_state": null,
+            "verbose": 0,
+            "warm_start": false
+        },
+        {
+            "bootstrap": true,
+            "class_weight": null,
+            "criterion": "gini",
+            "max_depth": null,
+            "max_features": "auto",
+            "max_leaf_nodes": null,
+            "min_impurity_decrease": 0.0,
+            "min_impurity_split": null,
+            "min_samples_leaf": 1,
+            "min_samples_split": 2,
+            "min_weight_fraction_leaf": 0.0,
+            "n_estimators": "warn",
+            "n_jobs": null,
+            "oob_score": false,
+            "random_state": null,
+            "verbose": 0,
+            "warm_start": false
+        }
+    ],
+    "test_roc_auc": [
+        0.5714710547184774,
+        0.5534298176050753,
+        0.4597541633624108,
+        0.565325138778747,
+        0.49549278846153844
+    ],
+    "test_accuracy": [
+        0.6510067114093959,
+        0.6442953020134228,
+        0.6308724832214765,
+        0.5771812080536913,
+        0.6486486486486487
+    ],
+    "test_f1_micro": [
+        0.6510067114093959,
+        0.6442953020134228,
+        0.6308724832214765,
+        0.5771812080536913,
+        0.6486486486486487
+    ],
+    "test_f1_macro": [
+        0.47047566976489885,
+        0.39183673469387753,
+        0.45889732585011556,
+        0.5016722408026756,
+        0.39344262295081966
+    ],
+    "test_f1": [
+        0.7796610169491525,
+        0.7836734693877551,
+        0.7639484978540773,
+        0.6956521739130435,
+        0.7868852459016393
+    ]
+}

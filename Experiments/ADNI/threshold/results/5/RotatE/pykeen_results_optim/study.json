@@ -1,0 +1,13 @@
+{
+  "dataset": null,
+  "evaluator": "rankbased",
+  "loss": "nssa",
+  "metric": "hits@10",
+  "model": "rotate",
+  "negative_sampler": "basic",
+  "optimizer": "adam",
+  "pykeen_git_hash": "UNHASHED",
+  "pykeen_version": "1.0.2",
+  "regularizer": "no",
+  "training_loop": "slcwa"
+}

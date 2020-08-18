@@ -1,0 +1,138 @@
+{
+    "fit_time": [
+        23.609429359436035,
+        22.808314323425293,
+        23.64432644844055,
+        20.41831874847412,
+        23.533268213272095
+    ],
+    "score_time": [
+        0.006908893585205078,
+        0.0059108734130859375,
+        0.005938291549682617,
+        0.005967617034912109,
+        0.005823373794555664
+    ],
+    "estimator": [
+        {
+            "C": 1.0,
+            "class_weight": null,
+            "dual": false,
+            "fit_intercept": true,
+            "intercept_scaling": 1,
+            "l1_ratio": null,
+            "max_iter": 100,
+            "multi_class": "auto",
+            "n_jobs": null,
+            "penalty": "elasticnet",
+            "random_state": null,
+            "solver": "saga",
+            "tol": 0.0001,
+            "verbose": 0,
+            "warm_start": false
+        },
+        {
+            "C": 1.0,
+            "class_weight": null,
+            "dual": false,
+            "fit_intercept": true,
+            "intercept_scaling": 1,
+            "l1_ratio": null,
+            "max_iter": 100,
+            "multi_class": "auto",
+            "n_jobs": null,
+            "penalty": "elasticnet",
+            "random_state": null,
+            "solver": "saga",
+            "tol": 0.0001,
+            "verbose": 0,
+            "warm_start": false
+        },
+        {
+            "C": 1.0,
+            "class_weight": null,
+            "dual": false,
+            "fit_intercept": true,
+            "intercept_scaling": 1,
+            "l1_ratio": null,
+            "max_iter": 100,
+            "multi_class": "auto",
+            "n_jobs": null,
+            "penalty": "elasticnet",
+            "random_state": null,
+            "solver": "saga",
+            "tol": 0.0001,
+            "verbose": 0,
+            "warm_start": false
+        },
+        {
+            "C": 1.0,
+            "class_weight": null,
+            "dual": false,
+            "fit_intercept": true,
+            "intercept_scaling": 1,
+            "l1_ratio": null,
+            "max_iter": 100,
+            "multi_class": "auto",
+            "n_jobs": null,
+            "penalty": "elasticnet",
+            "random_state": null,
+            "solver": "saga",
+            "tol": 0.0001,
+            "verbose": 0,
+            "warm_start": false
+        },
+        {
+            "C": 1.0,
+            "class_weight": null,
+            "dual": false,
+            "fit_intercept": true,
+            "intercept_scaling": 1,
+            "l1_ratio": null,
+            "max_iter": 100,
+            "multi_class": "auto",
+            "n_jobs": null,
+            "penalty": "elasticnet",
+            "random_state": null,
+            "solver": "saga",
+            "tol": 0.0001,
+            "verbose": 0,
+            "warm_start": false
+        }
+    ],
+    "test_roc_auc": [
+        0.5414353687549563,
+        0.5,
+        0.49226804123711343,
+        0.5798969072164948,
+        0.469150641025641
+    ],
+    "test_accuracy": [
+        0.6577181208053692,
+        0.6510067114093959,
+        0.5436241610738255,
+        0.5906040268456376,
+        0.581081081081081
+    ],
+    "test_f1_micro": [
+        0.6577181208053692,
+        0.6510067114093959,
+        0.5436241610738255,
+        0.5906040268456376,
+        0.581081081081081
+    ],
+    "test_f1_macro": [
+        0.4147862918752407,
+        0.3943089430894309,
+        0.4931972789115646,
+        0.42478324156698943,
+        0.4511961722488039
+    ],
+    "test_f1": [
+        0.7918367346938776,
+        0.7886178861788617,
+        0.6530612244897959,
+        0.7336244541484717,
+        0.7181818181818183
+    ]
+}

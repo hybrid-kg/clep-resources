@@ -1,0 +1,138 @@
+{
+    "fit_time": [
+        5.917002439498901,
+        5.952180624008179,
+        5.817755222320557,
+        5.9164159297943115,
+        5.842491626739502
+    ],
+    "score_time": [
+        0.055556535720825195,
+        0.054152727127075195,
+        0.05423235893249512,
+        0.0547940731048584,
+        0.05356907844543457
+    ],
+    "estimator": [
+        {
+            "C": 1.0,
+            "break_ties": false,
+            "cache_size": 200,
+            "class_weight": null,
+            "coef0": 0.0,
+            "decision_function_shape": "ovr",
+            "degree": 3,
+            "gamma": "scale",
+            "kernel": "rbf",
+            "max_iter": -1,
+            "probability": false,
+            "random_state": null,
+            "shrinking": true,
+            "tol": 0.001,
+            "verbose": false
+        },
+        {
+            "C": 1.0,
+            "break_ties": false,
+            "cache_size": 200,
+            "class_weight": null,
+            "coef0": 0.0,
+            "decision_function_shape": "ovr",
+            "degree": 3,
+            "gamma": "scale",
+            "kernel": "rbf",
+            "max_iter": -1,
+            "probability": false,
+            "random_state": null,
+            "shrinking": true,
+            "tol": 0.001,
+            "verbose": false
+        },
+        {
+            "C": 1.0,
+            "break_ties": false,
+            "cache_size": 200,
+            "class_weight": null,
+            "coef0": 0.0,
+            "decision_function_shape": "ovr",
+            "degree": 3,
+            "gamma": "scale",
+            "kernel": "rbf",
+            "max_iter": -1,
+            "probability": false,
+            "random_state": null,
+            "shrinking": true,
+            "tol": 0.001,
+            "verbose": false
+        },
+        {
+            "C": 1.0,
+            "break_ties": false,
+            "cache_size": 200,
+            "class_weight": null,
+            "coef0": 0.0,
+            "decision_function_shape": "ovr",
+            "degree": 3,
+            "gamma": "scale",
+            "kernel": "rbf",
+            "max_iter": -1,
+            "probability": false,
+            "random_state": null,
+            "shrinking": true,
+            "tol": 0.001,
+            "verbose": false
+        },
+        {
+            "C": 1.0,
+            "break_ties": false,
+            "cache_size": 200,
+            "class_weight": null,
+            "coef0": 0.0,
+            "decision_function_shape": "ovr",
+            "degree": 3,
+            "gamma": "scale",
+            "kernel": "rbf",
+            "max_iter": -1,
+            "probability": false,
+            "random_state": null,
+            "shrinking": true,
+            "tol": 0.001,
+            "verbose": false
+        }
+    ],
+    "test_roc_auc": [
+        0.905035685963521,
+        0.9149484536082475,
+        0.8362410785091197,
+        0.8852101506740682,
+        0.8339342948717949
+    ],
+    "test_accuracy": [
+        0.825503355704698,
+        0.8389261744966443,
+        0.7718120805369127,
+        0.8590604026845637,
+        0.8243243243243243
+    ],
+    "test_f1_micro": [
+        0.825503355704698,
+        0.8389261744966443,
+        0.7718120805369127,
+        0.8590604026845637,
+        0.8243243243243243
+    ],
+    "test_f1_macro": [
+        0.8023469387755102,
+        0.8135168961201502,
+        0.7139792231255646,
+        0.8377495462794919,
+        0.8016903731189444
+    ],
+    "test_f1": [
+        0.87,
+        0.8823529411764706,
+        0.8425925925925924,
+        0.896551724137931,
+        0.8686868686868686
+    ]
+}
