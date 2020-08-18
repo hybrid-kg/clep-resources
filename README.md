@@ -23,7 +23,7 @@ Each experiment folder contains a data and results folder.
 
 The tree structure looks like as given below,
 ```
-Experiments/
+Datasets/
 └── ADNI
     ├── kge_model
     │   ├── data
