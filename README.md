@@ -27,7 +27,7 @@ Datasets/
 └── ADNI
     ├── kge_model
     │   ├── data
-    │   │   └── pathme.edgelist
+    │   │   └── ppi-kg.edgelist
     │   └── results
     │       ├── ComplEx
     │       │   ├── config.json
@@ -148,7 +148,7 @@ Datasets/
     │                   └── cross_validation_results.json
     └── threshold
         ├── data
-        │   └── pathme.edgelist
+        │   └── ppi-kg.edgelist
         └── results
             ├── 1
             │   ├── RotatE
