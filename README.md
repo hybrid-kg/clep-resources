@@ -7,6 +7,11 @@ Datasets currently used in this repo
 | #1 | ADNI | 484 | 260 |
 
 
+Data Availability
+------------------
+Due to the restriction on the access to the ADNI data, we are not at the liberty to share the data. If an individual wishes to replicate the results, they could apply for access the ADNI data at their [access portal](http://adni.loni.usc.edu/data-samples/access-data/).
+
+
 Repository Structure
 ---------------------
 The repo contains a main folder ([Datasets](Datasets/)) containing 3 experiments that were carried out using
